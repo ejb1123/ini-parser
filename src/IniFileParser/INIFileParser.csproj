@@ -9,7 +9,7 @@
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>IniParser</RootNamespace>
-    <AssemblyName>INIFileParser</AssemblyName>
+    <AssemblyName>INIFileParser.net</AssemblyName>
     <SignAssembly>True</SignAssembly>
     <AssemblyOriginatorKeyFile>Properties\publickey.snk</AssemblyOriginatorKeyFile>
     <FileUpgradeFlags>
@@ -53,7 +53,7 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <DocumentationFile>..\..\lib\INIFileParser.xml</DocumentationFile>
+    <DocumentationFile>..\..\lib\INIFileParser.net.xml</DocumentationFile>
     <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
     <DebugSymbols>true</DebugSymbols>
   </PropertyGroup>
